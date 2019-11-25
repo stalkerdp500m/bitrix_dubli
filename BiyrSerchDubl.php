@@ -45,7 +45,7 @@ if (!empty($_POST) && ($_POST['event'] == 'ONCRMLEADADD') && ($_POST['auth']['ap
     }
 } else {
 
-    header('Location: http://teeal.pl/');
+    header('Location: http://site.com/');
 
     die;
 }
